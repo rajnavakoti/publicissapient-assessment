@@ -1,0 +1,7 @@
+out/
+.idea/
+.gradle/
+build/
+target/
+allure-results/
+allure-report/
